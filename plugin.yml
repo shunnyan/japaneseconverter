@@ -1,0 +1,7 @@
+---
+name: japaneseconverter
+version: 1.0.0
+main: japaneseconverter\Main
+load: STARTUP
+api: 5.5.0
+...
