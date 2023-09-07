@@ -17,7 +17,7 @@ class MessageConfig
 		]);
 		self::$MaskConfig = new Config(Main::$config_datafolder . "MaskConfig.json",Config::JSON,[
 			"enable" => false,
-			"list" => ["sine","fuck"]
+			"list" => ["bougen1","bougen2"]
 		]);
 	}
 }
